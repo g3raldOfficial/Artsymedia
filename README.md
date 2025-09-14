@@ -65,7 +65,7 @@ A visual overview of my projects. Click on any thumbnail to explore the folder.
 
 ## 📬 Contact
 - **TikTok:** [@Artyug__](https://www.tiktok.com/@Arstyug__)  
-- **Instagram:** [@Artyug_](https://www.instagram.com/Arstyug_/)  
+- **Instagram:** [@Artyug_](https://www.instagram.com/Artsyug_/)  
 - **WhatsApp:** [Chat or view catalog](https://wa.me/256763008891)  
 
 ---
