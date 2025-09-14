@@ -1,6 +1,6 @@
 # ArtsyMedia 🎨🎬📸
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/your-username/ArtsyMedia?style=for-the-badge)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/g3raldofficial/ArtsyMedia?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/g3raldofficial/ArtsyMedia?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/g3raldofficial/ArtsyMedia?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/g3raldofficial/ArtsyMedia?style=for-the-badge)
@@ -28,26 +28,30 @@ Hi! I'm a multimedia creator passionate about turning ideas into visually stunni
 ---
 
 ## 🖼️ Projects
-Here’s a gallery of my work. Click to explore each project folder:
 
-| Project | Description |
-|---------|-------------|
-| `Videos/` | Short films, music videos, and editing experiments |
-| `Photos/` | Edited photo collections and RAW images |
-| `Graphics/` | Posters, social media visuals, branding templates |
-| `Scripts/` | Screenplays, storyboards, and planning documents |
-| `Resources/` | Tools, tutorials, and workflow guides |
+A visual overview of my projects. Click on any thumbnail to explore the folder.
 
-> **Tip:** Add screenshots or thumbnails in each folder for a visual preview.
+<div align="center">
+
+| Videos | Photos | Graphics |
+|--------|--------|---------|
+| [![Videos](Videos/thumbnail.jpg)](Videos/) | [![Photos](Photos/thumbnail.jpg)](Photos/) | [![Graphics](Graphics/thumbnail.jpg)](Graphics/) |
+
+| Scripts | Resources |
+|---------|----------|
+| [![Scripts](Scripts/thumbnail.jpg)](Scripts/) | [![Resources](Resources/thumbnail.jpg)](Resources/) |
+
+</div>
+
+> 💡 **Tip:** Ensure each folder contains a `thumbnail.jpg` as the representative image.
 
 ---
 
 ## ⚡ Tools & Software
-- **Video Editing:** Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve  
-- **Audio & Mixing:** FL Studio, Audacity  
+- **Video Editing:** Adobe Premiere Pro, CapCut, DaVinci Resolve  
+- **Audio & Mixing:** FL Studio, Adobe Audition  
 - **Graphics & Design:** Photoshop, Illustrator, Figma  
-- **3D & Motion:** Blender, After Effects  
-- **Other Tools:** OBS Studio, Notion, Canva  
+- **3D & Motion:** Blender, After Effects, Wasp3D  
 
 ---
 
